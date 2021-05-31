@@ -4,8 +4,14 @@ logo_width = "200px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
+
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
+
+# Chatra chat
+[chatra_chat]
+enable = false
+chatra_public_key = "" # example : XeirZbZW2RT1mT1id
 
 # Preloader
 [preloader]
